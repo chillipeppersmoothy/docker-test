@@ -5,7 +5,7 @@ const app = express();
 
 var jsonServer = require('json-server');
 
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 3000;
 
 const mainRouter = require('./routes/main');
 

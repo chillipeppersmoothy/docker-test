@@ -1,14 +1,1 @@
-{
-    "main": [
-        {
-            "id": 1,
-            "name": "json-server",
-            "isCompleted": "false"
-        },
-        {
-            "id": 2,
-            "body": "some comment",
-            "isCompleted": "true"
-        }
-    ]
-}
+["[\"[\\\"{\\\\r\\\\n    \\\\\\\"main\\\\\\\": [\\\\r\\\\n        {\\\\r\\\\n            \\\\\\\"id\\\\\\\": 1,\\\\r\\\\n            \\\\\\\"name\\\\\\\": \\\\\\\"json-server\\\\\\\",\\\\r\\\\n            \\\\\\\"isCompleted\\\\\\\": \\\\\\\"false\\\\\\\"\\\\r\\\\n        },\\\\r\\\\n        {\\\\r\\\\n            \\\\\\\"id\\\\\\\": 2,\\\\r\\\\n            \\\\\\\"body\\\\\\\": \\\\\\\"some comment\\\\\\\",\\\\r\\\\n            \\\\\\\"isCompleted\\\\\\\": \\\\\\\"true\\\\\\\"\\\\r\\\\n        }\\\\r\\\\n    ]\\\\r\\\\n}\\\",{\\\"id\\\":\\\"82f24d4d-97cb-487f-9289-977a3419b8e4\\\",\\\"name\\\":\\\"json\\\",\\\"isCompleted\\\":false}]\",{\"id\":\"a366cc7e-79e4-4915-bbf2-e44acb231400\",\"name\":\"json\",\"isCompleted\":false}]",{"id":"1c841d5e-e874-4213-b4b1-ea6ffbc6c413","name":"json","isCompleted":false}]
